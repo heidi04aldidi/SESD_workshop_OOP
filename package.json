@@ -1,0 +1,29 @@
+{
+  "name": "sesd_workshop_oop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heidi04aldidi/SESD_workshop_OOP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heidi04aldidi/SESD_workshop_OOP/issues"
+  },
+  "homepage": "https://github.com/heidi04aldidi/SESD_workshop_OOP#readme",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "mongoose": "^9.1.5"
+  },
+  "devDependencies": {
+    "@types/mongoose": "^5.11.96",
+    "typescript": "^5.9.3"
+  }
+}
